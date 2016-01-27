@@ -125,7 +125,7 @@ include("Libreria-Web-Services-Syscaf-S.A.S/call_core_orgid.php");
 include("Libreria-Web-Services-Syscaf-S.A.S/call_Positioning_LatestPositionPerVehicle.php");
 ?>
 </div>
-</body style ="zoom:200;" >
+</body >
   <br>
 <center>
 <div id="map" style="width:800px; height:600px"></div>
