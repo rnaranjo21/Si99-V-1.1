@@ -119,7 +119,6 @@ text-align:center;
 </style>
 <body>
 <div  id="dvData" >
-
 <?php
 include("Libreria-Web-Services-Syscaf-S.A.S/call_core_orgid.php");
 include("Libreria-Web-Services-Syscaf-S.A.S/call_Positioning_LatestPositionPerVehicle.php");
@@ -155,6 +154,7 @@ function inicializaGoogleMaps() {
      }
  </script>
 </center>
+</div>
  <br>
  <footer>
   <br>
